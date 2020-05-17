@@ -9,10 +9,6 @@ public class Demo {
 	
 	//andrea
 	
-	
-	// SABOOR
-	System.out.println("HelloWorld");
-	
 	//adding method
 	public int sum(int a, int b) {
 		return a + b;
@@ -29,4 +25,7 @@ public class Demo {
 		System.out.println("removed few lines");
 		
 	}
+	
+	// SABOOR
+	System.out.println("HelloWorld");
 }
