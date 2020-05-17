@@ -8,4 +8,9 @@ public class Demo {
 	//sara is adding comment
 	
 	//andrea
+	
+	//adding method
+	public int sum(int a, int b) {
+		return a + b;
+	}
 }
