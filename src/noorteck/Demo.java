@@ -27,5 +27,7 @@ public class Demo {
 	}
 	
 	// SABOOR
+	public void print() {
 	System.out.println("HelloWorld");
+	}
 }
