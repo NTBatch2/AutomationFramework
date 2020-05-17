@@ -14,7 +14,7 @@ public class Demo {
 		return a + b;
 	}
 	
-	public void test() {
+	public void test1() {
 		System.out.println("andrea");
 		
 	}
@@ -22,6 +22,7 @@ public class Demo {
 	public void test() {
 		System.out.println("andrea");
 		
+		System.out.println("removed few lines");
+		
 	}
 }
-https://github.com/NTBatch2/AutomationFramework.git
