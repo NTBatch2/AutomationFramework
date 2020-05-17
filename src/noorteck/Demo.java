@@ -2,6 +2,7 @@ package noorteck;
 
 public class Demo {
 	
+	//instance variables
 	int num1 = 10;
 	int num2 = 15;
 	
@@ -34,4 +35,6 @@ public class Demo {
 	public void print() {
 	System.out.println("HelloWorld");
 	}
+
+	
 }
