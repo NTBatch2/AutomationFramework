@@ -13,4 +13,15 @@ public class Demo {
 	public int sum(int a, int b) {
 		return a + b;
 	}
+	
+	public void test() {
+		System.out.println("andrea");
+		
+	}
+	
+	public void test() {
+		System.out.println("andrea");
+		
+	}
 }
+https://github.com/NTBatch2/AutomationFramework.git
