@@ -7,6 +7,8 @@ public class Demo {
 			
 			System.out.println("Denis");
 			System.out.println("Dorina");
+			
+			System.out.println("Vio's TEST...for group two only..");
 	}
 	
 	
