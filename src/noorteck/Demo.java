@@ -45,3 +45,45 @@ public class Demo {
 	// Andrea
 
 }
+   //Andrea
+
+public void num() {
+	System.out.println("add number");
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+	public void num() {
+		System.out.println("add number");
+	}
+}
+   //Andrea
+    
+	public void num() {
+		System.out.println("add number");
+	}
+}
