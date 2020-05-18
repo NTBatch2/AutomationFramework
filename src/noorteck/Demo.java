@@ -13,7 +13,7 @@ public class Demo {
 		// calling sum method
 		// creating an object
 		Demo obj = new Demo();
-		obj.sum(10, 15);
+		System.out.println(obj.sum(10, 15));
 	}
 	// sara is adding comment
 
