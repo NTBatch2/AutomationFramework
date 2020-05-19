@@ -44,43 +44,18 @@ public class Demo {
 
 	// Andrea
 
-}
+
    //Andrea
 
-public void num() {
+public void numTwo() {
 	System.out.println("add number");
 }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     
-	public void num() {
+	public void numTree() {
 		System.out.println("add number");
 	}
-}
+
    //Andrea
     
 	public void num() {
